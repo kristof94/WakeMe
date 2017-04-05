@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WakeMe</string>
+    <string name="desc_img">Image mic</string>
 </resources>
